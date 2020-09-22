@@ -1,13 +1,6 @@
+**[View Live Preview](https://htmlpreview.github.io/?https://github.com/angshengyang/Final_BTIS3063_2020B_B180226C/blob/master/B180226C.html)**
 
-![alt text](https://image.ibb.co/mawu6U/Capture.png)
 
-![alt text](https://image.ibb.co/fXTkD9/Capture2.png)
-
-![alt text](https://image.ibb.co/gqCZ6U/Capture3.png)
-
-![alt text](https://image.ibb.co/nuPQD9/Capture4.png)
-
-![alt text](https://image.ibb.co/dRvAfp/capture5.png)
 
 
 
